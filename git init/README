@@ -1,0 +1,2 @@
+def delete_listeners(self, listeners):
+        return self.connection.delete_load_balancer_listeners(self.name,
